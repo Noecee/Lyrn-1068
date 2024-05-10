@@ -1,1 +1,1 @@
-worker: npm i && npm start
+worker: rm -rf node_modules && npm i && npm start
